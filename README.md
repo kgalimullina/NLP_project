@@ -87,7 +87,7 @@ Backend:
 ---
 
 ## 📂 Структура репозитория
-
+```
 project/
 │
 ├── bot.py
@@ -103,7 +103,7 @@ project/
 ├── ru_curse_words.txt
 │
 └── notebook.ipynb
-
+```
 
 
 
