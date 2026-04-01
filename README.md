@@ -93,7 +93,7 @@ project/
 ├── bot.py
 ├── app.py
 ├── requirements.txt
-├── .env.example
+├── .env 
 │
 ├── all_program.xlsx
 ├── Database.xlsx
@@ -102,7 +102,7 @@ project/
 ├── ru_abusive_words.txt
 ├── ru_curse_words.txt
 │
-└── notebook.ipynb
+└── rag_assistant_v3.ipynb
 ```
 
 
